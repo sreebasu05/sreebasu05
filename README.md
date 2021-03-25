@@ -1,7 +1,6 @@
-<h1 align="center">Hello there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="mysql" width="40" height="35"/>, I'm Sreemoyee basu  </br></h1>
+<h1 align="center">Hello there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="mysql" width="40" height="35"/>, I'm Sreemoyee Basu  </br></h1>
 <p align="center">
-<!-- <a href="https://linkedin.com/in/gursimran-kaur-saini-193a5a1a5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gursimran-kaur-saini-193a5a1a5" height="30" width="40" /></a> -->
-<!--   <a href="https://github.com/gursimran18" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="gursimran-kaur-saini-193a5a1a5" height="35" width="35" /></a> -->
+
 </p>
 <p>Glad to see you here! 🤩</br>
  I'm a B.Tech ECE sophomore from MNNIT Allahabad.❤️ </br>
@@ -20,6 +19,9 @@
  </a> 
  <a href="https://www.djangoproject.com/" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> 
+ </a> 
+ <a href="https://nodejs.org/en/" target="_blank"> 
+  <img src="https://www.martincap.io/images/icons/devicon/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> 
  </a> 
 <!--  <a href="https://firebase.google.com/" target="_blank"> 
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
